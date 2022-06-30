@@ -1,8 +1,8 @@
 ## Olá, sou Marcos Vinícius 👋
 
-- Sou discente no Instituto Federal de Sergipe - Campus Aracaju no curso de Técnico em Informática.
+- Formado pelo IFS - Aracaju como Técnico de Informática
+- Discente na Estácio no curso Análise e desenvolvimento de Sistemas
 - Possuo conhecimentos na Linguagem JAVA, C# e SQL. Assim como em, HTML, CSS e JAVASCRIPT.
-- Atualmente, estou desenvolvendo um TCC (Trabalho de Conclusão de Curso) com a temática E-commerce utilizando ASP.NET Core.
 - Fã do Open Source
 
 <div style="display: flex; justify-content: space-between; align-content: center; align-items: center;">
